@@ -42,7 +42,7 @@
   {
     "name": "web-bootstrap",
     "desc": "đây là web tạo bằng bootstrap tôi làm",
-    "image": "kiaweb",
+    "image": "anhbootstrap",
     "category": "mern",
     "links": {
       "view": "https://hungnguyen0104.github.io/webbootstrap/",
@@ -52,7 +52,7 @@
   {
     "name": "dự án 1",
     "desc": "web tạo bằng HTNL và CSS",
-    "image": "jspro",
+    "image": "duan1",
     "category": "mern",
     "links": {
       "view": "https://hungnguyen0104.github.io/web2/",
@@ -62,7 +62,7 @@
   {
     "name": "dự án 2",
     "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
+    "image": "duan1",
     "category": "mern",
     "links": {
       "view": "https://resumegenx.netlify.app/",
@@ -72,7 +72,7 @@
   {
     "name": "Dự án 3",
     "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
+    "image": "duan1",
     "category": "mern",
     "links": {
       "view": "https://reactjsprojects.herokuapp.com/",
@@ -82,7 +82,7 @@
   {
     "name": "dự án 4",
     "desc": "Full-Stack Flipkart Clone Using LAMP Stack. With all major features and OTP authentication and Cashfree payment gateway.",
-    "image": "flipkartphp",
+    "image": "duan1",
     "category": "lamp",
     "links": {
       "view": "https://github.com/jigar-sable/Flipkart-Clone-PHP",
@@ -92,7 +92,7 @@
   {
     "name": "dự án 5",
     "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
-    "image": "jspro",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "https://jigar-sable.github.io/JavaScript-Projects",
@@ -102,7 +102,7 @@
   {
     "name": "Web UI Clones",
     "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
-    "image": "webuiclones",
+    "image": "duan1",
     "category": "mern",
     "links": {
       "view": "https://github.com/jigar-sable/web-ui-clones",
@@ -112,7 +112,7 @@
   {
     "name": "Crypto Tracker",
     "desc": "Crypto Tracker built using ReactJS and Chakra UI. Supports dark mode. API used coingecko.",
-    "image": "cryptotracker",
+    "image": "duan1",
     "category": "mern",
     "links": {
       "view": "https://crypto-tracker-react-project.netlify.app/",
@@ -122,7 +122,7 @@
   {
     "name": "Hulu Website",
     "desc": "Hulu website built using NextJS and tailwindCSS. API used TMDB, deployed on vercel.",
-    "image": "hulu",
+    "image": "duan1",
     "category": "mern",
     "links": {
       "view": "https://hulu-clone-jigar-sable.vercel.app/",
@@ -132,7 +132,7 @@
   {
     "name": "Portfolio Website",
     "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
-    "image": "portfolio1",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -142,7 +142,7 @@
   {
     "name": "Composey Website",
     "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
-    "image": "composey",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "https://composey.netlify.app/",
@@ -152,7 +152,7 @@
   {
     "name": "Webview App",
     "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
-    "image": "webviewapp",
+    "image": "duan1",
     "category": "android",
     "links": {
       "view": "https://github.com/jigar-sable/Android-Webview#webapp--android-webview-app",
@@ -162,7 +162,7 @@
   {
     "name": "PHP Banking Website",
     "desc": "Basic Banking System based on PHP and MySQL database. Made with HTML, CSS, JavaScript and backend with PHP.",
-    "image": "tsfbank",
+    "image": "duan1",
     "category": "lamp",
     "links": {
       "view": "https://tsfbank.rf.gd",
@@ -172,7 +172,7 @@
   {
     "name": "Bootstrap Portfolio",
     "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
-    "image": "bootstrapportfolio",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -182,7 +182,7 @@
   {
     "name": "Bootstrap Template",
     "desc": "Basic website template built using HTML and Bootstrap.",
-    "image": "bootstraptemplate",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -192,7 +192,7 @@
   {
     "name": "Foodicious",
     "desc": "Basic food website landing page built using HTML, CSS and JavaScript.",
-    "image": "foodicious",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "#",
@@ -202,7 +202,7 @@
   {
     "name": "Food Website",
     "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
-    "image": "foodwebsite",
+    "image": "duan1",
     "category": "basicweb",
     "links": {
       "view": "#",
